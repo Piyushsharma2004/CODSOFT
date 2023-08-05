@@ -40,7 +40,7 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Come Back To Calculator";
-            $("#favicon").attr("href", "images\favhand.png");
+            $("#favicon").attr("href", "images/favhand.png");
         }
       });  
       
